@@ -24,27 +24,12 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CVDemo.Video.ProgramOptions.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CVDemo.Video.VideoFileInfo.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CVDemo.Video.TargetVideoMode.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CVDemo.Video.Blend.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CVDemo.Video.ProgramOptions.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CVDemo.Video.VideoFileInfo.cpp">
+    <ClCompile Include="CVDemo.Video.Diff.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

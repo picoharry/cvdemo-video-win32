@@ -59,6 +59,11 @@ Combines a series of images into a video.
 Divides a video into a series of frame images.
 
 
+## Video.Diff
+
+Removes background and keeps the foreground image.
+
+
 ## Video.Subtract
 
 Removes background image and gets the foreground object.
